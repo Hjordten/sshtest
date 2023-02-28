@@ -1,7 +1,6 @@
 [user]
 	name = Hjordten
-	email = andr314e@stud.kea.dk
-[alias]
+	email = andr314e@stud.kea.dk[alias]
 	co = checkout
 	root = rev-parse --show-toplevel
 	undo = reset --soft HEAD^
